@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
+xlrd
+sqlalchemy
+mysql-connector-python
+pymysql
+plotly
+missingno
+ydata-profiling
+jupyter
+jupyterlab
+ipykernel
