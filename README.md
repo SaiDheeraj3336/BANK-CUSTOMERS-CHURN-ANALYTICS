@@ -5,7 +5,7 @@ Customer churn is one of the biggest challenges in banking industry. An end-to-e
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Queries-blue)
 ![DAX](https://img.shields.io/badge/DAX-Measures-green)
