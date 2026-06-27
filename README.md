@@ -312,8 +312,6 @@ BANK-CUSTOMERS-CHURN-ANALYTICS
 # 📈 Future Scope
 
 - Deploy dashboards to Power BI Service
-- Enable automatic data refresh
-- Connect to live SQL databases
 - Build Machine Learning churn prediction models
 - Deploy predictive analytics using Azure or AWS
 
